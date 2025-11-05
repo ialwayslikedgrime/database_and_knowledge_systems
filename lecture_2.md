@@ -1,8 +1,7 @@
 # Data Mining and Knowledge Extraction - Lecture 2
-**Course Code:** 0509495  
-**Professor:** Prof. Marco Calautti  
+
 **Topic:** Database Design - Entity-Relationship Model  
-**Duration:** ~2 hours 33 minutes
+
 
 ---
 
